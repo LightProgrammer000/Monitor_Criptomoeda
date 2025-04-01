@@ -5,7 +5,6 @@ Este projeto monitora os preços de criptomoedas utilizando a API da Binance, pe
 ## Funcionalidades
 
 - **Monitoramento de Preços**: Acompanha em tempo real as variações de preço de criptomoedas na Binance.
-- **Alertas Personalizáveis**: Configura alertas para notificá-lo quando determinados preços forem atingidos.
 - **Interface Simples**: Fácil de usar, com configurações mínimas necessárias.
 
 ## Começando
